@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-14",
+  "cameras": [
+    {
+      "name": "Praia de João Fernandes — Hotel Experience",
+      "area": "praia",
+      "place": "Búzios",
+      "url": "https://www.climaaovivo.com.br/rj/armacao-dos-buzios-hotel-pousada-experience",
+      "type": "pagina"
+    },
+    {
+      "name": "Mapa de câmeras de Búzios",
+      "area": "praia",
+      "place": "Búzios",
+      "url": "https://www.climaaovivo.com.br/cidades/brasil/rj/armacao-dos-buzios",
+      "type": "pagina"
+    },
+    {
+      "name": "Praia de Geribá — Le Relais La Borie",
+      "area": "praia",
+      "place": "Búzios",
+      "url": "https://laborie.com.br/live-beach/",
+      "type": "pagina",
+      "note": "pode estar fora do ar"
+    },
+    {
+      "name": "Arraial do Cabo ao vivo — Pontal NeTv",
+      "area": "praia",
+      "place": "Arraial do Cabo",
+      "url": "https://www.youtube.com/@PontalNeTv/live",
+      "type": "youtube",
+      "note": "praia pode variar"
+    },
+    {
+      "name": "Praia do Forte — Point do Forte",
+      "area": "praia",
+      "place": "Cabo Frio",
+      "url": "https://www.youtube.com/@cabofrio-rj/live",
+      "type": "youtube"
+    },
+    {
+      "name": "Praia do Peró — Paradiso Peró",
+      "area": "praia",
+      "place": "Cabo Frio",
+      "url": "https://www.climaaovivo.com.br/rj/cabo-frio/cabo-frio-paradiso-pero-praia-hotel",
+      "type": "pagina"
+    },
+    {
+      "name": "Cabo Frio — Paradiso Del Sol",
+      "area": "praia",
+      "place": "Cabo Frio",
+      "url": "https://www.climaaovivo.com.br/rj/cabo-frio/cabo-frio-paradiso-del-sol",
+      "type": "pagina"
+    },
+    {
+      "name": "Mapa de câmeras de Cabo Frio",
+      "area": "praia",
+      "place": "Cabo Frio",
+      "url": "https://www.climaaovivo.com.br/cidades/brasil/rj/cabo-frio",
+      "type": "pagina"
+    },
+    {
+      "name": "Vila Jaguaribe — webcam NetCampos",
+      "area": "cidade",
+      "place": "Campos do Jordão",
+      "url": "https://www.netcampos.com/cameras/webcam-netcampos-vila-jaguaribe-campos-do-jordao.html",
+      "type": "pagina"
+    },
+    {
+      "name": "Via Dutra — painel de câmeras (Motiva/CCR RioSP)",
+      "area": "estrada",
+      "place": "BR-116 Via Dutra",
+      "url": "https://rodovias.motiva.com.br/riosp/cameras-ao-vivo/",
+      "type": "pagina",
+      "note": "Escolha o km na página: SP km 230, Guarulhos 225 e 210, Arujá 202, Jacareí 160, SJC 156, Taubaté 100, Roseira 78, Itatiaia 315, Paracambi 224 (mais perto da Serra das Araras)"
+    },
+    {
+      "name": "Painel NetCampos — câmeras de Campos e acessos",
+      "area": "estrada",
+      "place": "Campos do Jordão",
+      "url": "https://www.netcampos.com/cameras/",
+      "type": "pagina"
+    },
+    {
+      "name": "Portal de Campos do Jordão — SP-123 km 46",
+      "area": "estrada",
+      "place": "SP-123",
+      "url": "https://www.netcampos.com/cameras/sp-123-floriano-rodrigues-pinheiro-km-046.html",
+      "type": "pagina"
+    },
+    {
+      "name": "SP-123 km 8 (início da subida)",
+      "area": "estrada",
+      "place": "SP-123",
+      "url": "https://www.netcampos.com/cameras/rodovia-sp-123-floriano-rodrigues-pinheiro-km-008000.html",
+      "type": "pagina"
+    },
+    {
+      "name": "SP-123 km 25",
+      "area": "estrada",
+      "place": "SP-123",
+      "url": "https://www.netcampos.com/cameras/sp-123-floriano-rodrigues-pinheiro-km-025.html",
+      "type": "pagina"
+    },
+    {
+      "name": "SP-123 km 26",
+      "area": "estrada",
+      "place": "SP-123",
+      "url": "https://www.netcampos.com/cameras/sp-123-floriano-rodrigues-pinheiro-km-026.html",
+      "type": "pagina"
+    },
+    {
+      "name": "SP-123 km 31",
+      "area": "estrada",
+      "place": "SP-123",
+      "url": "https://www.netcampos.com/cameras/sp-123-floriano-rodrigues-pinheiro-km-031.html",
+      "type": "pagina"
+    },
+    {
+      "name": "SP-123 km 33 sentido Campos",
+      "area": "estrada",
+      "place": "SP-123",
+      "url": "https://www.netcampos.com/cameras/sp-123-floriano-rodrigues-pinheiro-km-033-sentido-campos-do-jordao.html",
+      "type": "pagina"
+    },
+    {
+      "name": "SP-123 km 33 sentido Taubaté",
+      "area": "estrada",
+      "place": "SP-123",
+      "url": "https://www.netcampos.com/cameras/sp-123-floriano-rodrigues-pinheiro-km-033-sentido-taubate.html",
+      "type": "pagina"
+    },
+    {
+      "name": "SP-046 km 167",
+      "area": "estrada",
+      "place": "SP-046",
+      "url": "https://www.netcampos.com/cameras/sp-046-oswaldo-barbosa-guisard-km-167.html",
+      "type": "pagina"
+    }
+  ]
+}
