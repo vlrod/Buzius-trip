@@ -1,0 +1,528 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-14",
+  "beaches": [
+    {
+      "id": "praia-brava",
+      "photos": [
+        {
+          "file": "img/beaches/praia-brava-2.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ErbsJr.%20ARMACAO%20DOS%20BUZIOS%20Praia%20Brava%20RJ%20%2840343784794%29.jpg?width=1600",
+          "credit": "MTur Destinos",
+          "license": "Domínio público"
+        },
+        {
+          "file": "img/beaches/praia-brava-3.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20Brava%20-%20B%C3%BAzios.jpg?width=1600",
+          "credit": "Juh oliveira87",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/praia-brava-4.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20Brava%20-%20Rio%20de%20Janeiro.jpg?width=1600",
+          "credit": "Mabscoito",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/praia-brava-5.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20Brava%20em%20Arma%C3%A7%C3%A3o%20dos%20B%C3%BAzios%20Rio%20de%20Janeiro.jpg?width=1600",
+          "credit": "Mabscoito",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/praia-brava-1.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/B%C3%BAzios%20RJ%20Brasil%20-%20Praia%20Brava%20-%20panoramio.jpg?width=1600",
+          "credit": "Josue Marinho",
+          "license": "CC BY 3.0"
+        }
+      ],
+      "video": {
+        "youtubeId": "axoTjXZSXYo",
+        "published": "2026-03-15",
+        "views": 12955,
+        "title": "O azul dessa praia é simplesmente inexplicável - Praia Brava - Búzios RJ",
+        "channel": "Guia Nativo Búzios"
+      }
+    },
+    {
+      "id": "ferradura",
+      "photos": [
+        {
+          "file": "img/beaches/ferradura-1.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20Ferradura.jpg?width=1600",
+          "credit": "Carlos André Viana",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/ferradura-2.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PRAIA%20DA%20FERRADURA.B%C3%9AZIOS.JPG?width=1600",
+          "credit": "Msadp77",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/ferradura-3.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Visual%20da%20Praia%20da%20Ferradura%20-%20panoramio.jpg?width=1600",
+          "credit": "Marcelo Domingues",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/ferradura-4.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ferradura.61.jpg?width=1600",
+          "credit": "Msadp06",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "file": "img/beaches/ferradura-5.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ferradura62.jpg?width=1600",
+          "credit": "Msadp06",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "video": {
+        "youtubeId": "waejon_8fxs",
+        "published": "2026-07-16",
+        "views": 6585,
+        "title": "Bairro e Praia Ferradura: O Paraíso Que Todo Turista Procura",
+        "channel": "Guia Nativo Búzios"
+      }
+    },
+    {
+      "id": "ferradurinha",
+      "photos": [
+        {
+          "file": "img/beaches/ferradurinha-1.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Buzios-Ferradurinha1.jpg?width=1600",
+          "credit": "Fulviusbsas",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/ferradurinha-2.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Buzios-Ferradurinha2.jpg?width=1600",
+          "credit": "Fulviusbsas",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/ferradurinha-3.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Buzios-Ferradurinha3.jpg?width=1600",
+          "credit": "Fulviusbsas",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/ferradurinha-4.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20da%20Ferradurinha%20B%C3%BAzios.JPG?width=1600",
+          "credit": "Oadampesquisador",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "file": "img/beaches/ferradurinha-5.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20da%20Ferradurinha%20%2844550852214%29.jpg?width=1600",
+          "credit": "Marinelson Almeida",
+          "license": "CC BY 2.0"
+        }
+      ],
+      "video": {
+        "youtubeId": "EkvJSCHQC3U",
+        "published": "2025-11-22",
+        "views": 12995,
+        "title": "Como Chegar na Praia da Ferradurinha (Búzios) + Snorkel e Dicas Essenciais",
+        "channel": "Guia Nativo Búzios"
+      }
+    },
+    {
+      "id": "azeda",
+      "photos": [
+        {
+          "file": "img/beaches/azeda-1.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20da%20Azeda%2001.jpg?width=1600",
+          "credit": "Halley Pacheco de Oliveira",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/azeda-2.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20Azeda.JPG?width=1600",
+          "credit": "Isadoraacrd",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/azeda-3.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20da%20Azeda%2003.jpg?width=1600",
+          "credit": "Halley Pacheco de Oliveira",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/azeda-4.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20da%20Azeda%2004.jpg?width=1600",
+          "credit": "Halley Pacheco de Oliveira",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/azeda-5.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20Azeda%2C%20Parque%20Estadual%20da%20Costa%20do%20Sol%2C%20N%C3%BAcleo%20Pau-Brasil.JPG?width=1600",
+          "credit": "Daniel Souza Lima",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "video": {
+        "youtubeId": "-wwx0H7d0yA",
+        "published": "2026-01-15",
+        "views": 39796,
+        "title": "Búzios RJ: O Ponto MAIS PERIGOSO da Azeda! (Passeio completo pela Azedinha, Ossos e Centro)",
+        "channel": "Guia Nativo Búzios"
+      }
+    },
+    {
+      "id": "azedinha",
+      "photos": [
+        {
+          "file": "img/beaches/azedinha-1.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Buzios-PraiaAzedinha.jpg?width=1600",
+          "credit": "Fulviusbsas",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/azedinha-2.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Azedinha.jpg?width=1600",
+          "credit": "Claus Bunks",
+          "license": "Domínio público"
+        },
+        {
+          "file": "img/beaches/azedinha-3.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20da%20Azedinha%2001.jpg?width=1600",
+          "credit": "Halley Pacheco de Oliveira",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/azedinha-4.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20da%20Azedinha%2002.jpg?width=1600",
+          "credit": "Halley Pacheco de Oliveira",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/azedinha-5.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20da%20Azedinha%2003.jpg?width=1600",
+          "credit": "Halley Pacheco de Oliveira",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "video": {
+        "youtubeId": "RlZCgTshveQ",
+        "published": "2026-04-10",
+        "views": 911,
+        "title": "TOUR EM BÚZIOS | COMO CHEGAR NAS PRAIAS AZEDA E AZEDINHA CONHEÇA TAMBEM O BAIRRO E A PRAIA DOS OSSOS",
+        "channel": "Pascoal Neto | Vlogs diários"
+      }
+    },
+    {
+      "id": "joao-fernandes",
+      "photos": [
+        {
+          "file": "img/beaches/joao-fernandes-1.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Buzios-JoaoFernandes.jpg?width=1600",
+          "credit": "Fulviusbsas",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/joao-fernandes-2.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Buzios-JoaoFernandes1.jpg?width=1600",
+          "credit": "Fulviusbsas",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/joao-fernandes-3.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Buzios-JoaoFernandes2.jpg?width=1600",
+          "credit": "Fulviusbsas",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/joao-fernandes-4.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20de%20Jo%C3%A3o%20Fernandes%2001.jpg?width=1600",
+          "credit": "Halley Pacheco de Oliveira",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/joao-fernandes-5.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20de%20Jo%C3%A3o%20Fernandes%2002.jpg?width=1600",
+          "credit": "Halley Pacheco de Oliveira",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "video": {
+        "youtubeId": "lMpkfdnmczU",
+        "published": "2026-03-06",
+        "views": 14870,
+        "title": "Praia de Buzios - João Fernandes VAZIA? Nunca vi essa praia assim!",
+        "channel": "Guia Nativo Búzios"
+      }
+    },
+    {
+      "id": "geriba",
+      "photos": [
+        {
+          "file": "img/beaches/geriba-1.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anoitecer%20na%20praia%20de%20Gerib%C3%A1.JPG?width=1600",
+          "credit": "Pedro Perales Ramalho",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/geriba-2.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gerib%C3%A1%2C%20B%C3%BAzios%20-%20Fim%20de%20tarde.jpg?width=1600",
+          "credit": "Professorcarlosgoes",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "file": "img/beaches/geriba-3.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Parque%20Estadual%20da%20Costa%20do%20Sol%20-%20Anna%20Cl%C3%A1udia%20Gouveia%20Salomon%20%2833%29.jpg?width=1600",
+          "credit": "AnnaClGS",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "file": "img/beaches/geriba-4.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20de%20Gerib%C3%A1%20deserta%20durante%20a%20pandemia%20de%20COVID-19.jpg?width=1600",
+          "credit": "Patrick Montenegro",
+          "license": "CC0"
+        }
+      ],
+      "video": {
+        "youtubeId": "Y5mw4GJKw4g",
+        "published": "2026-04-07",
+        "views": 11178,
+        "title": "Praia de Praia de Geribá - Búzios RJ LOTADA! Veja como está",
+        "channel": "Guia Nativo Búzios"
+      }
+    },
+    {
+      "id": "ossos",
+      "photos": [
+        {
+          "file": "img/beaches/ossos-1.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Buzios-PraiaOssos.jpg?width=1600",
+          "credit": "Fulviusbsas",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/ossos-2.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20dos%20Ossos%20-%20Arma%C3%A7%C3%A3o%20dos%20B%C3%BAzios.jpg?width=1600",
+          "credit": "Jana Rebelo",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "file": "img/beaches/ossos-3.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20dos%20Ossos%2001.jpg?width=1600",
+          "credit": "Halley Pacheco de Oliveira",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/ossos-4.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20dos%20Ossos%2002.jpg?width=1600",
+          "credit": "Halley Pacheco de Oliveira",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/ossos-5.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20dos%20Ossos%2003.jpg?width=1600",
+          "credit": "Halley Pacheco de Oliveira",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "video": {
+        "youtubeId": "dL5scnvXki8",
+        "published": "2026-04-26",
+        "views": 7228,
+        "title": "Caminhando pela Praia dos Ossos & Igreja de Sant’Ana | Vila de Pescadores em 4K",
+        "channel": "Guia Nativo Búzios"
+      }
+    },
+    {
+      "id": "tartaruga",
+      "photos": [
+        {
+          "file": "img/beaches/tartaruga-1.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20da%20Tartaruga%20-%20B%C3%BAzios%20-%20RJ.jpg?width=1600",
+          "credit": "Gledson Agra de Carvalho",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "file": "img/beaches/tartaruga-2.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20da%20Tartaruga%20-%20B%C3%BAzios%20-%20RJ%20Imagem%20A%C3%A9rea.jpg?width=1600",
+          "credit": "Gledson Agra de Carvalho",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "file": "img/beaches/tartaruga-3.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20da%20Tartaruga%20%283332883171%29.jpg?width=1600",
+          "credit": "Rodrigo Soldon",
+          "license": "CC BY 2.0"
+        },
+        {
+          "file": "img/beaches/tartaruga-4.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Buzios%20Playa%20La%20Tartaruga%20Rio%20de%20Janeiro%20Brasil%20-%20panoramio.jpg?width=1600",
+          "credit": "Andrés Franchi Ugart",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/tartaruga-5.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20da%20Tartaruga%20%283333718224%29.jpg?width=1600",
+          "credit": "Rodrigo Soldon",
+          "license": "CC BY 2.0"
+        }
+      ],
+      "video": {
+        "youtubeId": "MS7_A-Qb6vk",
+        "published": "2026-07-21",
+        "views": 13109,
+        "title": "A Praia Favorita de Muitos em Búzios: Praia da Tartaruga",
+        "channel": "Guia Nativo Búzios"
+      }
+    },
+    {
+      "id": "prainhas-atalaia",
+      "photos": [
+        {
+          "file": "img/beaches/prainhas-atalaia-1.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Prainha%20Pontal%20do%20atalaia%20Arraial%20do%20cabo%20rj.jpg?width=1600",
+          "credit": "Sophydiah",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "file": "img/beaches/prainhas-atalaia-2.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ponta%20do%20Atalaia%20Arraial%20do%20Cabo.%20Vis%C3%A3o%20de%20uma%20das%20Prainhas.jpg?width=1600",
+          "credit": "Samuel Adventure B",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/prainhas-atalaia-3.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Parque%20Estadual%20da%20Costa%20do%20Sol%20-%20Giullia%20Piaia%20%2801%29.jpg?width=1600",
+          "credit": "Giulbr",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "file": "img/beaches/prainhas-atalaia-4.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Parque%20Estadual%20da%20Costa%20do%20Sol%20-%20Giullia%20Piaia%20%2802%29.jpg?width=1600",
+          "credit": "Giulbr",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "file": "img/beaches/prainhas-atalaia-5.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pontal%20do%20Atalaia%2C%20Arraial%20do%20Cabo%20-%20Rio%20de%20Janeiro.jpg?width=1600",
+          "credit": "Gabriel Abreu",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "video": {
+        "youtubeId": "qhd7GvCmKJI",
+        "published": "2025-12-29",
+        "views": 70292,
+        "title": "PRAINHAS DO PONTAL DO ATALAIA – ARRAIAL DO CABO 4K",
+        "channel": "Guia Nativo Búzios"
+      }
+    },
+    {
+      "id": "enseada-forno",
+      "photos": [
+        {
+          "file": "img/beaches/enseada-forno-1.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20bel%C3%ADssima%20Praia%20do%20Forno.jpg?width=1600",
+          "credit": "CASSIO AVILA",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "file": "img/beaches/enseada-forno-2.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Forno%20beach.jpg?width=1600",
+          "credit": "Eurico Zimbres",
+          "license": "CC BY-SA 2.5"
+        },
+        {
+          "file": "img/beaches/enseada-forno-3.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Forno%20Beach%202.jpg?width=1600",
+          "credit": "Eurico Zimbres",
+          "license": "CC BY-SA 2.5"
+        },
+        {
+          "file": "img/beaches/enseada-forno-4.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20do%20Forno%20caribenha.JPG?width=1600",
+          "credit": "Rafael Rabello de Barros",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "video": {
+        "youtubeId": "bNCNtjsOb9Q",
+        "published": "2025-11-28",
+        "views": 33876,
+        "title": "Praia do Forno - Arraial do Cabo: O Paraíso Que Todo Mundo Quer Conhecer — Guia Completo!",
+        "channel": "Guia Nativo Búzios"
+      }
+    },
+    {
+      "id": "praia-dos-anjos",
+      "photos": [
+        {
+          "file": "img/beaches/praia-dos-anjos-1.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia.dos.Anjos.Arraial.do.Cabo.jpg?width=1600",
+          "credit": "Msadp06",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "file": "img/beaches/praia-dos-anjos-2.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20dos%20Anjos.JPG?width=1600",
+          "credit": "Rafael Rabello de Barros",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/praia-dos-anjos-3.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20dos%20Anjos%2C%20Arraial%20do%20Cabo%20-%20RJ%2C%20Brazil%20-%20panoramio.jpg?width=1600",
+          "credit": "TMbux",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/praia-dos-anjos-4.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cais%20na%20Praia%20dos%20Anjos%20-%20panoramio.jpg?width=1600",
+          "credit": "M.Pereira",
+          "license": "CC BY 3.0"
+        }
+      ],
+      "video": {
+        "youtubeId": "clbzl1B51GQ",
+        "published": "2026-09-25",
+        "views": 2445,
+        "title": "Por qué todos ignoran Praia dos Anjos? | Arraial do Cabo | Caribe Brasilero",
+        "channel": "tepartislaboca - Marti y Joaco x el Mundo"
+      }
+    },
+    {
+      "id": "praia-grande",
+      "photos": [
+        {
+          "file": "img/beaches/praia-grande-1.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arraial%20do%20Cabo%20-%20Praia%20Grande.jpg?width=1600",
+          "credit": "Luis Eduardo Souza Photo",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "file": "img/beaches/praia-grande-2.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/PRAIA%20GRANDE.jpg?width=1600",
+          "credit": "Fagner Machado",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "file": "img/beaches/praia-grande-3.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Arraial%20do%20Cabo%20-%20Praia%20Grande%20ao%20Entardecer.JPG?width=1600",
+          "credit": "Ivolindbergh",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "file": "img/beaches/praia-grande-4.webp",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Praia%20Grande%20-%20Arraial%20do%20Cabo%20-%20panoramio.jpg?width=1600",
+          "credit": "TMbux",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "video": {
+        "youtubeId": "e-Qh0GIstyA",
+        "published": "2026-11-09",
+        "views": 25432,
+        "title": "Arraial do Cabo: Estive na Praia Grande 2 Horas Antes da Tempestade!",
+        "channel": "Binho Lesk"
+      }
+    }
+  ]
+}

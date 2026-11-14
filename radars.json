@@ -1,0 +1,2573 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-14",
+  "credit": "© OpenStreetMap",
+  "source": "Overpass em 14/11/2026. highway=speed_camera num corredor de cerca de 2 km da rota Curitiba–Régis–Rodoanel–Dutra–SP-123–Ponte–BR-101–Via Lagos–RJ-106 e das ruas de Búzios, Arraial e Cabo Frio. O bearing é o rumo do tráfego vigiado. Relações enforcement=maxspeed foram consultadas no mesmo corredor e não acrescentaram pontos neste recorte.",
+  "radars": [
+    {
+      "id": "3367120186",
+      "lat": -25.299092,
+      "lng": -48.939801,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "100km/h",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170052216",
+      "lat": -25.281081,
+      "lng": -48.927178,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "2702082658",
+      "lat": -25.271037,
+      "lng": -48.919931,
+      "maxspeed": 110,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170052513",
+      "lat": -24.950136,
+      "lng": -48.424067,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170053430",
+      "lat": -24.834009,
+      "lng": -48.222413,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170049155",
+      "lat": -24.833547,
+      "lng": -48.214689,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170019079",
+      "lat": -24.783412,
+      "lng": -48.178489,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170050717",
+      "lat": -24.730019,
+      "lng": -48.105177,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322228153",
+      "lat": -24.457327,
+      "lng": -47.814192,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322210415",
+      "lat": -24.45658,
+      "lng": -47.813959,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322226644",
+      "lat": -24.422072,
+      "lng": -47.776418,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322226077",
+      "lat": -24.168931,
+      "lng": -47.337509,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170011032",
+      "lat": -24.168451,
+      "lng": -47.336935,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322213314",
+      "lat": -24.126355,
+      "lng": -47.271901,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170052212",
+      "lat": -24.124944,
+      "lng": -47.271521,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322212194",
+      "lat": -24.121754,
+      "lng": -47.270379,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170050716",
+      "lat": -24.116107,
+      "lng": -47.268861,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322177894",
+      "lat": -24.114885,
+      "lng": -47.269805,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12451551839",
+      "lat": -24.114589,
+      "lng": -47.269818,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "Radar de velocidade",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170038481",
+      "lat": -24.112737,
+      "lng": -47.268777,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322160096",
+      "lat": -24.111842,
+      "lng": -47.268738,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322213236",
+      "lat": -24.110813,
+      "lng": -47.268303,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170046759",
+      "lat": -24.110208,
+      "lng": -47.268158,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322185844",
+      "lat": -24.108691,
+      "lng": -47.265139,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322211574",
+      "lat": -24.101654,
+      "lng": -47.258643,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170047827",
+      "lat": -24.098955,
+      "lng": -47.25761,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170046824",
+      "lat": -24.09831,
+      "lng": -47.257384,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322226076",
+      "lat": -24.094959,
+      "lng": -47.256201,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322213980",
+      "lat": -24.092286,
+      "lng": -47.256188,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322212193",
+      "lat": -24.068611,
+      "lng": -47.239957,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322227878",
+      "lat": -24.064432,
+      "lng": -47.23317,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170023770",
+      "lat": -24.064373,
+      "lng": -47.233012,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322167686",
+      "lat": -24.059148,
+      "lng": -47.218734,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170038480",
+      "lat": -24.058763,
+      "lng": -47.218106,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12451563219",
+      "lat": -24.054122,
+      "lng": -47.216526,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "Radar de velocidade",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322227879",
+      "lat": -24.053433,
+      "lng": -47.213558,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12451559899",
+      "lat": -24.051526,
+      "lng": -47.204005,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "Radar de velocidade",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170055061",
+      "lat": -24.051504,
+      "lng": -47.205221,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322226075",
+      "lat": -24.047598,
+      "lng": -47.197987,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322226643",
+      "lat": -24.037046,
+      "lng": -47.188819,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170009091",
+      "lat": -24.036865,
+      "lng": -47.188545,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322212195",
+      "lat": -24.030467,
+      "lng": -47.178346,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322227710",
+      "lat": -24.008725,
+      "lng": -47.160535,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170017295",
+      "lat": -24.007017,
+      "lng": -47.159449,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170057403",
+      "lat": -24.006014,
+      "lng": -47.15892,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322226078",
+      "lat": -24.005714,
+      "lng": -47.158803,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322228152",
+      "lat": -23.793401,
+      "lng": -46.915308,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322229213",
+      "lat": -23.765896,
+      "lng": -46.908019,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8960811148",
+      "lat": -23.753808,
+      "lng": -46.789277,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8960811149",
+      "lat": -23.753651,
+      "lng": -46.789416,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "10944726975",
+      "lat": -23.712545,
+      "lng": -46.709909,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8604106129",
+      "lat": -23.700006,
+      "lng": -46.590258,
+      "maxspeed": 40,
+      "bearing": 220,
+      "name": "Radar Semafórico",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8604106060",
+      "lat": -23.699638,
+      "lng": -46.59012,
+      "maxspeed": 40,
+      "bearing": 35,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9807625559",
+      "lat": -23.697852,
+      "lng": -46.577786,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6373247738",
+      "lat": -23.693639,
+      "lng": -46.567976,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "INMETRO:13618380",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6373247739",
+      "lat": -23.693484,
+      "lng": -46.568009,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "INMETRO:3618380",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "4356762544",
+      "lat": -23.691991,
+      "lng": -46.566591,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "INMETRO:14017094",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8604100886",
+      "lat": -23.691601,
+      "lng": -46.587615,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "Radar Semafórico",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "4293359800",
+      "lat": -23.69045,
+      "lng": -46.55923,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9657264260",
+      "lat": -23.690418,
+      "lng": -46.561213,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12291964856",
+      "lat": -23.689814,
+      "lng": -46.552381,
+      "maxspeed": 40,
+      "bearing": 350,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9337895507",
+      "lat": -23.689435,
+      "lng": -46.546537,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6355846716",
+      "lat": -23.688999,
+      "lng": -46.546328,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9337895503",
+      "lat": -23.688935,
+      "lng": -46.551167,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9337895502",
+      "lat": -23.688859,
+      "lng": -46.550982,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "1510227129",
+      "lat": -23.688244,
+      "lng": -46.619237,
+      "maxspeed": null,
+      "bearing": 330,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8604074032",
+      "lat": -23.685616,
+      "lng": -46.600161,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "Radar Semafórico",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9337895501",
+      "lat": -23.685616,
+      "lng": -46.54534,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "10741314980",
+      "lat": -23.685376,
+      "lng": -46.617357,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "10741200836",
+      "lat": -23.685067,
+      "lng": -46.627308,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8025431309",
+      "lat": -23.68478,
+      "lng": -46.547201,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "10032382257",
+      "lat": -23.684481,
+      "lng": -46.607928,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8025510372",
+      "lat": -23.684396,
+      "lng": -46.547098,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "10741222293",
+      "lat": -23.684191,
+      "lng": -46.632777,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "11303448653",
+      "lat": -23.682007,
+      "lng": -46.542961,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9337895493",
+      "lat": -23.681385,
+      "lng": -46.554625,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14075646942",
+      "lat": -23.681092,
+      "lng": -46.505132,
+      "maxspeed": 50,
+      "bearing": 140,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14075646943",
+      "lat": -23.680774,
+      "lng": -46.505443,
+      "maxspeed": 50,
+      "bearing": 330,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "2021098358",
+      "lat": -23.678797,
+      "lng": -46.592767,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "10742065089",
+      "lat": -23.67677,
+      "lng": -46.589472,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "10597293236",
+      "lat": -23.672553,
+      "lng": -46.581565,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13976351385",
+      "lat": -23.670691,
+      "lng": -46.496521,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13976351384",
+      "lat": -23.670456,
+      "lng": -46.496852,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9536907740",
+      "lat": -23.669251,
+      "lng": -46.553462,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5521459827",
+      "lat": -23.669073,
+      "lng": -46.553499,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6579318893",
+      "lat": -23.668488,
+      "lng": -46.567823,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6501241747",
+      "lat": -23.668443,
+      "lng": -46.567987,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13108964547",
+      "lat": -23.667824,
+      "lng": -46.462975,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13563465476",
+      "lat": -23.666227,
+      "lng": -46.520705,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "11980904279",
+      "lat": -23.665775,
+      "lng": -46.571028,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13563473085",
+      "lat": -23.665494,
+      "lng": -46.517571,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13563473087",
+      "lat": -23.665066,
+      "lng": -46.516969,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5625372619",
+      "lat": -23.662463,
+      "lng": -46.561923,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5197107530",
+      "lat": -23.660883,
+      "lng": -46.570506,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3902334023",
+      "lat": -23.657514,
+      "lng": -46.485646,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "sT00000090",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13982963682",
+      "lat": -23.656444,
+      "lng": -46.498465,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3200928283",
+      "lat": -23.655934,
+      "lng": -46.547408,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6781668570",
+      "lat": -23.65204,
+      "lng": -46.516205,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13983081737",
+      "lat": -23.646934,
+      "lng": -46.488861,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8281411889",
+      "lat": -23.417921,
+      "lng": -46.378144,
+      "maxspeed": 90,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13599012835",
+      "lat": -23.417136,
+      "lng": -46.363344,
+      "maxspeed": 30,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13598331063",
+      "lat": -23.412573,
+      "lng": -46.31076,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6340721300",
+      "lat": -23.409511,
+      "lng": -46.342875,
+      "maxspeed": 110,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13406978613",
+      "lat": -23.408163,
+      "lng": -46.365587,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322225464",
+      "lat": -23.40804,
+      "lng": -46.338476,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170046920",
+      "lat": -23.407902,
+      "lng": -46.338207,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13406978614",
+      "lat": -23.407714,
+      "lng": -46.365756,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8281411877",
+      "lat": -23.405761,
+      "lng": -46.330032,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13591623248",
+      "lat": -23.40567,
+      "lng": -46.367919,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8281411878",
+      "lat": -23.405274,
+      "lng": -46.329866,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8281411873",
+      "lat": -23.402876,
+      "lng": -46.317192,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322185842",
+      "lat": -23.401489,
+      "lng": -46.310494,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170019074",
+      "lat": -23.401447,
+      "lng": -46.310269,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9344803490",
+      "lat": -23.400849,
+      "lng": -46.344958,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9344803489",
+      "lat": -23.400593,
+      "lng": -46.345023,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "1100886345",
+      "lat": -23.400391,
+      "lng": -46.354432,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "10245349661",
+      "lat": -23.398051,
+      "lng": -46.333083,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6340721297",
+      "lat": -23.398035,
+      "lng": -46.29629,
+      "maxspeed": 80,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "10245349660",
+      "lat": -23.397925,
+      "lng": -46.333448,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "7306167331",
+      "lat": -23.397584,
+      "lng": -46.306001,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "11262672833",
+      "lat": -23.391157,
+      "lng": -46.317279,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170046211",
+      "lat": -23.381121,
+      "lng": -46.259854,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322229304",
+      "lat": -23.380871,
+      "lng": -46.259474,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322227709",
+      "lat": -23.380658,
+      "lng": -46.258903,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322210410",
+      "lat": -23.380635,
+      "lng": -46.259116,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8892694229",
+      "lat": -23.379146,
+      "lng": -46.313954,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8892694228",
+      "lat": -23.378978,
+      "lng": -46.313975,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9951824126",
+      "lat": -23.378829,
+      "lng": -46.256134,
+      "maxspeed": 110,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170023672",
+      "lat": -23.377089,
+      "lng": -46.25083,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322213313",
+      "lat": -23.37705,
+      "lng": -46.250603,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12514355966",
+      "lat": -23.357699,
+      "lng": -46.15544,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14169967578",
+      "lat": -23.352122,
+      "lng": -46.186541,
+      "maxspeed": 110,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "4151738615",
+      "lat": -23.340097,
+      "lng": -46.15072,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322213310",
+      "lat": -23.334254,
+      "lng": -46.141197,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322182630",
+      "lat": -23.331773,
+      "lng": -46.136385,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322167682",
+      "lat": -23.329422,
+      "lng": -46.13181,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12784834285",
+      "lat": -23.324747,
+      "lng": -46.123413,
+      "maxspeed": null,
+      "bearing": 200,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12784834287",
+      "lat": -23.324557,
+      "lng": -46.123146,
+      "maxspeed": null,
+      "bearing": 50,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12784807282",
+      "lat": -23.323896,
+      "lng": -46.122749,
+      "maxspeed": 30,
+      "bearing": 170,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12784914771",
+      "lat": -23.323231,
+      "lng": -46.120405,
+      "maxspeed": null,
+      "bearing": 200,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12784914772",
+      "lat": -23.323017,
+      "lng": -46.120196,
+      "maxspeed": null,
+      "bearing": 40,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322160095",
+      "lat": -23.321819,
+      "lng": -46.113106,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12784914788",
+      "lat": -23.321462,
+      "lng": -46.111842,
+      "maxspeed": null,
+      "bearing": 200,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322160098",
+      "lat": -23.319357,
+      "lng": -46.08749,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "1750215578",
+      "lat": -23.315398,
+      "lng": -46.07441,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "7831864049",
+      "lat": -23.315293,
+      "lng": -46.072705,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322185845",
+      "lat": -23.315197,
+      "lng": -46.071966,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322223051",
+      "lat": -23.287528,
+      "lng": -45.993608,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170046817",
+      "lat": -23.2874,
+      "lng": -45.993408,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "7229350002",
+      "lat": -23.208305,
+      "lng": -45.887484,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "7237328942",
+      "lat": -23.208122,
+      "lng": -45.88765,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "7473198984",
+      "lat": -23.207933,
+      "lng": -45.908118,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "7473198983",
+      "lat": -23.206541,
+      "lng": -45.904992,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "10034747174",
+      "lat": -23.203606,
+      "lng": -45.904512,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "Radar 50 kmh",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5362047939",
+      "lat": -23.194087,
+      "lng": -45.885594,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "7714989189",
+      "lat": -23.186485,
+      "lng": -45.882475,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8845675615",
+      "lat": -23.179606,
+      "lng": -45.840094,
+      "maxspeed": 110,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6274463792",
+      "lat": -23.179142,
+      "lng": -45.839451,
+      "maxspeed": 110,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322227706",
+      "lat": -23.173843,
+      "lng": -45.828901,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12986944510",
+      "lat": -23.155683,
+      "lng": -45.791592,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322213235",
+      "lat": -23.155334,
+      "lng": -45.791737,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12986944511",
+      "lat": -23.155194,
+      "lng": -45.791455,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8592781963",
+      "lat": -23.127122,
+      "lng": -45.752106,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6272464599",
+      "lat": -23.123076,
+      "lng": -45.72809,
+      "maxspeed": 110,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6272464600",
+      "lat": -23.123042,
+      "lng": -45.727769,
+      "maxspeed": 110,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "1506487967",
+      "lat": -23.106645,
+      "lng": -45.697681,
+      "maxspeed": 80,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170008162",
+      "lat": -23.106247,
+      "lng": -45.696427,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13322228718",
+      "lat": -23.105791,
+      "lng": -45.696587,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "10313739983",
+      "lat": -23.065096,
+      "lng": -45.631884,
+      "maxspeed": 110,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "7236216022",
+      "lat": -23.054516,
+      "lng": -45.610744,
+      "maxspeed": 110,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9953546646",
+      "lat": -23.052733,
+      "lng": -45.606043,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "2503320009",
+      "lat": -23.047007,
+      "lng": -45.626871,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9888752606",
+      "lat": -23.043767,
+      "lng": -45.582292,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8401004532",
+      "lat": -23.03676,
+      "lng": -45.598958,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "13373408428",
+      "lat": -22.94503,
+      "lng": -45.576543,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "4194450232",
+      "lat": -22.911682,
+      "lng": -43.268192,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "4194450231",
+      "lat": -22.908555,
+      "lng": -43.27002,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3072655375",
+      "lat": -22.907654,
+      "lng": -43.229047,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3872329824",
+      "lat": -22.906709,
+      "lng": -43.209417,
+      "maxspeed": 70,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3872329823",
+      "lat": -22.906688,
+      "lng": -43.209571,
+      "maxspeed": 80,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6029842582",
+      "lat": -22.905962,
+      "lng": -43.305187,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3404837235",
+      "lat": -22.905258,
+      "lng": -43.277234,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9738584516",
+      "lat": -22.904937,
+      "lng": -43.190225,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "4141686989",
+      "lat": -22.904552,
+      "lng": -43.210281,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "4141687389",
+      "lat": -22.904542,
+      "lng": -43.210128,
+      "maxspeed": 80,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9738584514",
+      "lat": -22.904329,
+      "lng": -43.187785,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3952147059",
+      "lat": -22.90392,
+      "lng": -43.273308,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9738584513",
+      "lat": -22.903598,
+      "lng": -43.186059,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3952119758",
+      "lat": -22.903269,
+      "lng": -43.276728,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3952194257",
+      "lat": -22.902888,
+      "lng": -43.249365,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "442129769",
+      "lat": -22.902438,
+      "lng": -43.265724,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9738584511",
+      "lat": -22.902306,
+      "lng": -43.182525,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "442055709",
+      "lat": -22.901925,
+      "lng": -43.246108,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9651901469",
+      "lat": -22.901735,
+      "lng": -43.180754,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "11091654897",
+      "lat": -22.899798,
+      "lng": -43.22871,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "11091654898",
+      "lat": -22.89972,
+      "lng": -43.228392,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12702249563",
+      "lat": -22.899675,
+      "lng": -45.302658,
+      "maxspeed": 110,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "11832138969",
+      "lat": -22.89867,
+      "lng": -43.209878,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "11846019115",
+      "lat": -22.897067,
+      "lng": -43.182645,
+      "maxspeed": 80,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "11846035751",
+      "lat": -22.896649,
+      "lng": -43.184319,
+      "maxspeed": 80,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9604110957",
+      "lat": -22.894309,
+      "lng": -43.287313,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "1542757039",
+      "lat": -22.892039,
+      "lng": -45.291589,
+      "maxspeed": 80,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5427541466",
+      "lat": -22.891935,
+      "lng": -43.035714,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5427541465",
+      "lat": -22.891755,
+      "lng": -43.035739,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5216541957",
+      "lat": -22.891741,
+      "lng": -43.098594,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12986970575",
+      "lat": -22.891683,
+      "lng": -45.291255,
+      "maxspeed": 80,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "2752505362",
+      "lat": -22.891121,
+      "lng": -42.98761,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "1624166491",
+      "lat": -22.886349,
+      "lng": -43.217291,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6336662892",
+      "lat": -22.886347,
+      "lng": -43.217523,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "10556981425",
+      "lat": -22.881376,
+      "lng": -43.087282,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "11254215563",
+      "lat": -22.881162,
+      "lng": -43.257173,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3130613096",
+      "lat": -22.881135,
+      "lng": -43.238958,
+      "maxspeed": 90,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "146481131",
+      "lat": -22.881036,
+      "lng": -43.238676,
+      "maxspeed": 70,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "4162401185",
+      "lat": -22.881006,
+      "lng": -43.257614,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "163037382",
+      "lat": -22.879651,
+      "lng": -43.113585,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "1830310761",
+      "lat": -22.879106,
+      "lng": -43.113204,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "2189528859",
+      "lat": -22.879067,
+      "lng": -45.274326,
+      "maxspeed": 110,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5214988121",
+      "lat": -22.876412,
+      "lng": -43.05507,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5308446637",
+      "lat": -22.876148,
+      "lng": -43.208743,
+      "maxspeed": 80,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "7229137282",
+      "lat": -22.875841,
+      "lng": -43.232271,
+      "maxspeed": 90,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5308446631",
+      "lat": -22.873821,
+      "lng": -43.125121,
+      "maxspeed": 80,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5308446633",
+      "lat": -22.87193,
+      "lng": -43.14718,
+      "maxspeed": 80,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12259666496",
+      "lat": -22.871135,
+      "lng": -42.024813,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5308446634",
+      "lat": -22.870348,
+      "lng": -43.16338,
+      "maxspeed": 80,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5308446635",
+      "lat": -22.868396,
+      "lng": -43.185062,
+      "maxspeed": 80,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12676333735",
+      "lat": -22.866646,
+      "lng": -43.109509,
+      "maxspeed": 80,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170005000",
+      "lat": -22.865017,
+      "lng": -45.595798,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5214988122",
+      "lat": -22.86489,
+      "lng": -43.03492,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6070499603",
+      "lat": -22.860473,
+      "lng": -43.521244,
+      "maxspeed": 90,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6070499601",
+      "lat": -22.860315,
+      "lng": -43.521238,
+      "maxspeed": 90,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6070499602",
+      "lat": -22.858507,
+      "lng": -43.501938,
+      "maxspeed": 90,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3130613112",
+      "lat": -22.855456,
+      "lng": -43.482536,
+      "maxspeed": 90,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3130613111",
+      "lat": -22.855269,
+      "lng": -43.482508,
+      "maxspeed": 90,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "7554717804",
+      "lat": -22.805126,
+      "lng": -43.638619,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "7686062989",
+      "lat": -22.797306,
+      "lng": -43.646414,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "10607126591",
+      "lat": -22.796905,
+      "lng": -43.646724,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5418624556",
+      "lat": -22.783062,
+      "lng": -42.281346,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170023776",
+      "lat": -22.777066,
+      "lng": -45.153003,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170052123",
+      "lat": -22.776476,
+      "lng": -45.152757,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5421176512",
+      "lat": -22.775686,
+      "lng": -43.424558,
+      "maxspeed": 90,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5421176514",
+      "lat": -22.775177,
+      "lng": -43.43173,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5421176515",
+      "lat": -22.774948,
+      "lng": -43.432004,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5421176513",
+      "lat": -22.773943,
+      "lng": -43.426281,
+      "maxspeed": 90,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "7812823058",
+      "lat": -22.773501,
+      "lng": -42.935803,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12544090358",
+      "lat": -22.772097,
+      "lng": -42.932941,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12407113441",
+      "lat": -22.771045,
+      "lng": -42.081741,
+      "maxspeed": 60,
+      "bearing": 21,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "10577780501",
+      "lat": -22.77082,
+      "lng": -41.930548,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "6029842583",
+      "lat": -22.769459,
+      "lng": -43.40885,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "4731118148",
+      "lat": -22.768119,
+      "lng": -43.677056,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5427698823",
+      "lat": -22.76759,
+      "lng": -41.899863,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "1243750700",
+      "lat": -22.766772,
+      "lng": -41.899285,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3172084252",
+      "lat": -22.766453,
+      "lng": -43.413368,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3015712860",
+      "lat": -22.765898,
+      "lng": -43.414142,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5427698824",
+      "lat": -22.76571,
+      "lng": -41.899234,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170056488",
+      "lat": -22.765282,
+      "lng": -45.147393,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170047268",
+      "lat": -22.764728,
+      "lng": -45.14702,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "11841942237",
+      "lat": -22.764302,
+      "lng": -42.870416,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5421200693",
+      "lat": -22.762505,
+      "lng": -43.485912,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "349246503",
+      "lat": -22.760608,
+      "lng": -43.687013,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5421200692",
+      "lat": -22.760174,
+      "lng": -43.472367,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3015803899",
+      "lat": -22.757812,
+      "lng": -43.4298,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5427698825",
+      "lat": -22.757787,
+      "lng": -41.886443,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "11658508118",
+      "lat": -22.757619,
+      "lng": -45.11454,
+      "maxspeed": 110,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9397571319",
+      "lat": -22.755723,
+      "lng": -42.888018,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "5640873746",
+      "lat": -22.75529,
+      "lng": -42.890659,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170056487",
+      "lat": -22.754711,
+      "lng": -45.139169,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170052124",
+      "lat": -22.75376,
+      "lng": -45.138693,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170051921",
+      "lat": -22.753282,
+      "lng": -45.138457,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "10947309783",
+      "lat": -22.749801,
+      "lng": -45.105995,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "8174319847",
+      "lat": -22.748583,
+      "lng": -45.136161,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3015803897",
+      "lat": -22.744154,
+      "lng": -43.507851,
+      "maxspeed": 110,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3015712862",
+      "lat": -22.744024,
+      "lng": -43.507698,
+      "maxspeed": 100,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14197200492",
+      "lat": -22.741983,
+      "lng": -42.053965,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "12712333489",
+      "lat": -22.733747,
+      "lng": -45.098124,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "3992540002",
+      "lat": -22.733117,
+      "lng": -45.570703,
+      "maxspeed": 50,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "9680325439",
+      "lat": -22.730934,
+      "lng": -45.099888,
+      "maxspeed": 40,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "11405239405",
+      "lat": -22.725748,
+      "lng": -45.580257,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "Radar",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "11405258756",
+      "lat": -22.725621,
+      "lng": -45.579215,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "Radar",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170054628",
+      "lat": -22.724124,
+      "lng": -45.104124,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "7641663300",
+      "lat": -22.723861,
+      "lng": -45.104289,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "11405244188",
+      "lat": -22.722483,
+      "lng": -45.574594,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "Radar",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "7641663305",
+      "lat": -22.720071,
+      "lng": -45.10665,
+      "maxspeed": 60,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "11658508117",
+      "lat": -22.671744,
+      "lng": -44.995622,
+      "maxspeed": 110,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "14170046215",
+      "lat": -22.635538,
+      "lng": -44.973777,
+      "maxspeed": null,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    },
+    {
+      "id": "11657938534",
+      "lat": -22.585135,
+      "lng": -44.879861,
+      "maxspeed": 80,
+      "bearing": null,
+      "name": "",
+      "kind": "speed_camera"
+    }
+  ]
+}
